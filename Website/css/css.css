@@ -12,8 +12,8 @@ body {
     height: 100%;
     margin-left: auto; /*defining a margin on the left for the width of the page*/
     margin-right: auto; /*defining a margin on the right for the width of the page*/
-    min-width: 450px; /*defining a minimum width for the page*/
-    max-width: 900px; /*defining a minimum width for the page*/
+    min-width: 620px; /*defining a minimum width for the page*/
+    max-width: 1000px; /*defining a minimum width for the page*/
     
 }
 
